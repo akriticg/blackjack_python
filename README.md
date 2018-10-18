@@ -1,2 +1,4 @@
-# python_projects_and_practice
-random python mini-projects and practice sessions
+# blackjack_python
+Used python to create a blackjack game
+- can be modified for dealer
+- dealer has a constant score for now
